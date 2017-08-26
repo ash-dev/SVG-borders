@@ -8,4 +8,4 @@ https://ash-dev.github.io/svg-borders/
 
 ## Preview
 
-![Color schemes](https://github.com/ash-dev/svg-borders/blob/master/images/demo.jpg?raw=true)
+![SVG Borders](https://github.com/ash-dev/svg-borders/blob/master/images/demo.jpg?raw=true)
