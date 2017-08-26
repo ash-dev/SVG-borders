@@ -4,8 +4,8 @@ Easy SVG borders for whimsical section separation. To implement, download the re
 
 ## Demo
 
-https://ash-dev.github.io/SVG-borders/
+https://ash-dev.github.io/svg-borders/
 
 ## Preview
 
-![Color schemes](https://github.com/ash-dev/SVG-borders/blob/master/images/demo.jpg?raw=true)
+![Color schemes](https://github.com/ash-dev/svg-borders/blob/master/images/demo.jpg?raw=true)
